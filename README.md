@@ -1,6 +1,6 @@
 # Hi, I'm Bismark Mensah
 
-Aspiring data scientist building strong foundations in **Python**, **SQL**, and **machine learning** through hands-on projects and industry certifications.
+Aspiring data scientist building strong foundations in **Python**, **SQL**, and **Machine Learning** through hands-on projects and industry certifications.
 
 ## Technical Skills
 
