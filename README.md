@@ -32,4 +32,3 @@ Full collections: [Udemy](https://github.com/Bismark57/Udemy-Certificates) | [Co
 ## Connect
 
 - Dataquest: [app.dataquest.io/profile/bismarkmensah](https://app.dataquest.io/profile/bismarkmensah)
-- LinkedIn: *add your URL here*
